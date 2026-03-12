@@ -4,7 +4,7 @@
 
 Welcome to the "Farmer Support ChatBot" project! This repository focuses on developing a chatbot tailored for farmers, equipped with features such as language translation, speech recognition, and real-time communication. The project integrates a Flask backend and a React frontend, creating an interactive platform for farmers to seek information and assistance.
 
-![Screenshot 2024-01-13 at 3 30 24 PM](https://github.com/adil200/Farmer-Support-ChatBot/assets/75264739/5dcf78d5-e627-4b6f-9174-56ea06431021)
+
 
 ## Overview
 
